@@ -1,2 +1,3 @@
 /crawled/*
 *.pyc
+*checkpoints
